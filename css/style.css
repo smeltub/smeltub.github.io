@@ -620,3 +620,7 @@
     vertical-align: middle; /* Posisikan gambar di tengah secara vertikal */
     margin-right: 5px; /* Berikan sedikit margin kanan antara gambar dan teks */
 }
+
+a.text-white {
+    text-decoration: none;
+}
